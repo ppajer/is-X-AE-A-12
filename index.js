@@ -1,1 +1,3 @@
-module.exports.isXÆA12 = x => x === 'X Æ A-12'
+const NAME = 'X Æ A-12';
+
+module.exports.isXÆA12 = x => x === NAME
