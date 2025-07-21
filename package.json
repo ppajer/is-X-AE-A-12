@@ -1,6 +1,6 @@
 {
   "name": "is-xaea12",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Checks if a string is equal to X Æ A-12 for validation of name inputs.",
   "main": "index.js",
   "scripts": {
